@@ -40,7 +40,7 @@
             "processId": "${command:pickRemoteProcess}",
             "pipeTransport": {
                 "pipeProgram": "cmd",
-                "pipeArgs": ["/c", "docker exec -i vibrant_lumiere ${debuggerCommand}"],
+                "pipeArgs": ["/c", "docker exec -i confident_northcutt ${debuggerCommand}"],
                 "debuggerPath": "/root/vsdbg/vsdbg",
                 "pipeCwd": "${workspaceRoot}",
                 "quoteArgs": true
