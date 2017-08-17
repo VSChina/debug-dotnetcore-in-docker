@@ -1,7 +1,7 @@
 ## Prerequisites
 
 * [Docker](https://www.docker.com/)
-* [.NET Core 2.0 Preview 2](https://www.microsoft.com/net/core/preview#windowscmd)
+* [.NET Core 2.0](https://www.microsoft.com/net/core)
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 * [Docker Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer) (Optional but strongly recommended)
